@@ -1,5 +1,7 @@
 # traffic-light-controller
 
+Video demostration can be found [here](https://youtu.be/9mWLkRmKQEA)
+
 ### A traffic light controller for 4 ways crossing and barricade controller for trains  
   
 This project can be recreated by using 2 Arduinos. We used Arduino UNO R3 but you can use Mega too. One of them should be uploaded the file road/roadV2/roadV3/simpleRoadFinal and the other should have the file named train.  
